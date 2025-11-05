@@ -13,6 +13,12 @@
 
 📍 **Jaipur, Rajasthan** | 📞 **+91 9351222960**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Designing%20Delight-FF0080?style=for-the-badge&logo=starship&logoColor=white" alt="Design Badge" />
+  <img src="https://img.shields.io/badge/Crafting%20Experiences-8A2BE2?style=for-the-badge&logo=craft&logoColor=white" alt="Craft Badge" />
+</p>
+<p><strong>Transforming complex ideas into delightful, performant products.</strong></p>
+
 </div>
 
 ---
@@ -26,6 +32,14 @@
 - 🚀 Currently building: **Real-time collaboration tools**
 - 🌱 Learning: **Advanced React patterns**, **WebSockets**, **System Design**
 
+<div align="center">
+
+| 🚀 Impact | 💡 Focus | 🤝 Collaboration |
+|-----------|----------|------------------|
+| Production-ready, real-time experiences | Resilient frontends & scalable APIs | Clean code with empathetic teamwork |
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -34,6 +48,7 @@
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -135,6 +150,8 @@ Real-time project and task management platform with WebSocket-powered chat, role
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajputana2122@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AyushRawat2122&color=blueviolet&style=for-the-badge)
+
+<p><em>Let’s co-create something remarkable.</em></p>
 
 ---
 
