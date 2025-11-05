@@ -1,29 +1,33 @@
 <div align="center">
 
+<img src="https://archishmanghos.github.io/Personal-Site-Bootstrap/assets/cat_coding.gif" width="400" alt="Cute Cat Coder" />
+
 # 👋 Hi, I'm **Ayush Rawat**
 
 ### Full-Stack Developer | MERN Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Real-World+Web+Apps;MERN+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 
+<div style="display:flex;gap:16px;justify-content:center;align-items:center;flex-wrap:wrap;margin:20px 0;">
+  <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="Developer Icon" />
+  <img src="https://img.icons8.com/fluency/48/design.png" alt="Design Icon" />
+  <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" alt="Real-time Icon" />
+</div>
+
+📍 **Jaipur, Rajasthan**
+
+<p><strong>Transforming complex ideas into delightful, performant products.</strong></p>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ayushrawat.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushrawat21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AyushRawat0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajputana2122@gmail.com)
 
-📍 **Jaipur, Rajasthan** | 📞 **+91 9351222960**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Designing%20Delight-FF0080?style=for-the-badge&logo=starship&logoColor=white" alt="Design Badge" />
-  <img src="https://img.shields.io/badge/Crafting%20Experiences-8A2BE2?style=for-the-badge&logo=craft&logoColor=white" alt="Craft Badge" />
-</p>
-<p><strong>Transforming complex ideas into delightful, performant products.</strong></p>
-
 </div>
 
 ---
 
-## 🎯 About Me
+## <img src="https://img.icons8.com/fluency/32/goal--v1.png" width="26" alt="Target Icon" /> About Me
 
 > Looking to apply **full-stack development skills** to build reliable and user-focused web applications. Passionate about contributing to real-world projects, learning evolving technologies, and adding value through **problem-solving** and **collaboration**.
 
@@ -42,48 +46,58 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/fluency/32/source-code.png" width="26" alt="Code Icon" /> Tech Stack
 
 <div align="center">
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
+</div>
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+<div align="center">
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux Toolkit" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" /></a>
+</div>
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+### **Backend & Realtime**
+<div align="center">
+  <a href="https://nodejs.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /></a>
+  <a href="https://socket.io/docs/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="48" height="48" alt="Socket.io" /></a>
+  <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="48" height="48" alt="React Query" /></a>
+</div>
 
-### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### **Database & Cloud**
+<div align="center">
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a>
+  <a href="https://cloudinary.com/documentation" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="48" height="48" alt="Cloudinary" /></a>
+</div>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+### **Tools & DevOps**
+<div align="center">
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <a href="https://docs.github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://vercel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a>
+  <a href="https://learning.postman.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
+  <a href="https://axios-http.com/docs/intro" target="_blank"><img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" width="48" height="48" alt="Axios" /></a>
+  <a href="https://zod.dev/" target="_blank"><img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="48" height="48" alt="Zod" /></a>
+</div>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluency/32/rocket.png" width="26" alt="Rocket Icon" /> Featured Projects
 
 <div align="center">
 
@@ -107,7 +121,7 @@ Real-time project and task management platform with WebSocket-powered chat, role
 
 ---
 
-## 📜 Certifications
+## <img src="https://img.icons8.com/fluency/32/certificate.png" width="26" alt="Certificate Icon" /> Certifications
 
 <div align="center">
 
@@ -121,7 +135,7 @@ Real-time project and task management platform with WebSocket-powered chat, role
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="26" alt="Stats Icon" /> GitHub Stats
 
 <div align="center">
 
@@ -135,26 +149,35 @@ Real-time project and task management platform with WebSocket-powered chat, role
 
 ---
 
-## 🎨 Hobbies & Interests
+## <img src="https://img.icons8.com/fluency/32/joystick.png" width="26" alt="Joystick Icon" /> Creative Playground
 
-🎨 Digital Drawing (Cartoon Style) • 🎬 Exploring Animation • 🎮 Gaming • 💻 Learning New Tech
+<div align="center" style="display:flex;gap:32px;justify-content:center;flex-wrap:wrap;">
+  <div align="center">
+    <img src="https://img.icons8.com/fluency/48/color-palette.png" alt="Palette Icon" />
+    <p><strong>Digital Drawing</strong></p>
+    <p><em>Basic cartoon-style illustrations</em></p>
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/fluency/48/movie-projector.png" alt="Animation Icon" />
+    <p><strong>Animation Exploration</strong></p>
+    <p><em>Learning motion design basics</em></p>
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/fluency/48/virtual-reality.png" alt="Gaming Icon" />
+    <p><strong>Gaming</strong></p>
+    <p><em>Casual gameplay & relaxation</em></p>
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Tech Icon" />
+    <p><strong>Continuous Learning</strong></p>
+    <p><em>Always exploring new tech & trends</em></p>
+  </div>
+</div>
 
 ---
 
 <div align="center">
-
-### 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushrawat21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ayushrawat.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajputana2122@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AyushRawat2122&color=blueviolet&style=for-the-badge)
-
-<p><em>Let’s co-create something remarkable.</em></p>
-
----
-
-**✨ "Code. Build. Learn. Repeat." ✨**
-
+  <img src="https://img.icons8.com/fluency/32/sparkling.png" alt="Spark Icon" />
+  <p><em>Let’s co-create something remarkable.</em></p>
+  <strong>“Code. Build. Learn. Repeat.”</strong>
 </div>
