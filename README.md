@@ -33,13 +33,12 @@
 
 - 🎓 **MCA Student** at JECRC University (2024-2026)
 - 💼 Open to **Internships** and **Full-Time Opportunities**
-- 🚀 Currently building: **Real-time collaboration tools**
-- 🌱 Learning: **Advanced React patterns**, **WebSockets**, **System Design**
+- 🌱 Learning: **Advanced React patterns**, **WebSockets**, **python**, **System Design**
 
 <div align="center">
 
-| 🚀 Impact | 💡 Focus | 🤝 Collaboration |
-|-----------|----------|------------------|
+| 🚀 Impact                               | 💡 Focus                            | 🤝 Collaboration                    |
+| --------------------------------------- | ----------------------------------- | ----------------------------------- |
 | Production-ready, real-time experiences | Resilient frontends & scalable APIs | Clean code with empathetic teamwork |
 
 </div>
@@ -51,6 +50,7 @@
 <div align="center">
 
 ### **Languages**
+
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
@@ -59,6 +59,7 @@
 </div>
 
 ### **Frontend**
+
 <div align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
   <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux Toolkit" /></a>
@@ -68,6 +69,7 @@
 </div>
 
 ### **Backend & Realtime**
+
 <div align="center">
   <a href="https://nodejs.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /></a>
@@ -76,6 +78,7 @@
 </div>
 
 ### **Database & Cloud**
+
 <div align="center">
   <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
@@ -84,6 +87,7 @@
 </div>
 
 ### **Tools & DevOps**
+
 <div align="center">
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
   <a href="https://docs.github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
@@ -102,6 +106,7 @@
 <div align="center">
 
 ### 🎵 [**Muzox Music App**](https://muzox.vercel.app)
+
 **React • Node.js • Express • MongoDB • Tailwind • Cloudinary**
 
 Full-stack music streaming platform with playlist management, secure JWT authentication, and dynamic theming.
@@ -111,6 +116,7 @@ Full-stack music streaming platform with playlist management, secure JWT authent
 ---
 
 ### ✅ [**Todoshi - Real-Time Collaboration Platform**](https://todoshi.app)
+
 **React • Vite • Node.js • Express • MongoDB • Firebase • Socket.io • Redux**
 
 Real-time project and task management platform with WebSocket-powered chat, role-based access control, and Firebase authentication.
@@ -125,11 +131,11 @@ Real-time project and task management platform with WebSocket-powered chat, role
 
 <div align="center">
 
-| Certification | Year | Link |
-|--------------|------|------|
-| 🏆 **HackerRank Intermediate JavaScript** | 2025 | [View Certificate](https://www.hackerrank.com/certificates/023c56005d41) |
-| 🏆 **HackerRank Intermediate Problem Solving** | 2024 | [View Certificate](https://www.hackerrank.com/certificates/8b1056434d8b) |
-| 🏆 **MERN Stack Specialization** | 2025 | [View Certificate](https://drive.google.com/file/d/1072x_jpUAuBdXJ97eI3xtRovQGRVnr13/view?usp=sharing) |
+| Certification                                  | Year | Link                                                                                                   |
+| ---------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
+| 🏆 **HackerRank Intermediate JavaScript**      | 2025 | [View Certificate](https://www.hackerrank.com/certificates/023c56005d41)                               |
+| 🏆 **HackerRank Intermediate Problem Solving** | 2024 | [View Certificate](https://www.hackerrank.com/certificates/8b1056434d8b)                               |
+| 🏆 **MERN Stack Specialization**               | 2025 | [View Certificate](https://drive.google.com/file/d/1072x_jpUAuBdXJ97eI3xtRovQGRVnr13/view?usp=sharing) |
 
 </div>
 
